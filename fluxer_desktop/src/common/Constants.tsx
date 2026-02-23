@@ -22,5 +22,5 @@ export const STABLE_APP_URL = 'https://web.fluxer.app';
 export const CANARY_APP_URL = 'https://web.canary.fluxer.app';
 export const DEFAULT_WINDOW_WIDTH = 1280;
 export const DEFAULT_WINDOW_HEIGHT = 800;
-export const MIN_WINDOW_WIDTH = 800;
-export const MIN_WINDOW_HEIGHT = 600;
+export const MIN_WINDOW_WIDTH = 0;
+export const MIN_WINDOW_HEIGHT = 0;
